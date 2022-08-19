@@ -1,7 +1,6 @@
-import React, { Children, createContext, useState } from 'react'
+import React, { createContext, useState } from 'react'
 import { movies } from './mock/movies'
 import { type } from './mock/type'
-import Navbar from './Navbar/Index'
 
 
 export const g11Context=createContext()
