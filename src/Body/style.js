@@ -17,7 +17,7 @@ Card.Img = styled.img`
     width: 100%;
     height: 186px;
 `
-Card.title = styled.p`
+Card.Title = styled.p`
     font-weight: 400;
 font-size: 16px;
 line-height: 22px;
