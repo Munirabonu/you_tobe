@@ -4,7 +4,7 @@ import { Container } from './style'
 export default function Sidebar() {
   return (
     <Container>
-      HEllo
+      g11 react 
     </Container>
   )
 }

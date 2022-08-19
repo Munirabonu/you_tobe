@@ -7,6 +7,7 @@ const Container =styled.div`
     top: 0;
     background-color: #212121;
     border-right: 1px solid #FFFFFF33;
+    color: white;
 `
 
 export {Container}
