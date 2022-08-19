@@ -13,7 +13,7 @@ export default function Body() {
           return (
             <Card>
               <Card.Img src={value.url}/>
-              <Card.title>{value.name}</Card.title>
+              <Card.Title>{value.name}</Card.Title>
              </Card>
           )
         }
